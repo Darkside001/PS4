@@ -17,10 +17,10 @@ margin: -75px 0 0 -75px;
 
 border: 10px solid #1f1e1e;
 border-radius: 50%;
-border-top: 10px solid #1CFB05;
-border-left: 10px solid #1CFB05;
-width: 150px;
-height: 150px;
+border-top: 10px solid #F8030D;
+border-left: 10px solid #F8030D;
+width: 120px;
+height: 120px;
 animation: spin 1s linear infinite;
 }
 
